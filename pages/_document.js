@@ -8,7 +8,7 @@ class MyDocument extends Document {
 
   render() {
     const meta = {
-      title: 'Next.js Blog Starter Kit',
+      title: 'Eric Kim',
       description: 'Clone and deploy your own Next.js portfolio in minutes.',
       image:
         'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
@@ -27,7 +27,8 @@ class MyDocument extends Document {
           <meta name="twitter:site" content="@yourname" />
           <meta name="twitter:title" content={meta.title} />
           <meta name="twitter:description" content={meta.description} />
-          <meta name="twitter:image" content={meta.image} />
+          <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪨</text></svg>"></link>
+          {/* <meta name="twitter:image" content={meta.image} /> */}
         </Head>
         <body>
           <Main />
