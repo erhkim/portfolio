@@ -6,7 +6,7 @@ tag: python
 author: You
 ---
 
-# Impact Map
+# Casefold Compare Utility Script
 
 [Source](https://github.com/erhkim/Casefold-Data-Compare)
 
