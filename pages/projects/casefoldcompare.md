@@ -2,7 +2,7 @@
 title: Casefold Compare Utility Script
 date: 2020/01/01
 description: Compare data case-insensitively.
-tag: web development
+tag: python
 author: You
 ---
 
