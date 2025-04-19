@@ -7,13 +7,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3",
+    "gray-matter": "latest",
     "next": "latest",
-    "nextra": "^2.13.4",
-    "nextra-theme-blog": "^2.13.4",
+    "nextra": "latest",
+    "nextra-theme-blog": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "rss": "^1.2.2"
+    "rss": "latest"
   },
   "prettier": {
     "arrowParens": "always",
@@ -23,7 +23,7 @@
     "semi": false
   },
   "devDependencies": {
-    "eslint": "^8.15.0",
-    "eslint-config-next": "^12.1.6"
+    "eslint": "latest",
+    "eslint-config-next": "latest"
   }
 }
